@@ -36,6 +36,7 @@ else()
     else()
         add_executable(learnQml
           ${PROJECT_SOURCES}
+          colormaker.h colormaker.cpp
         )
     endif()
 endif()

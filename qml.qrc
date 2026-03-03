@@ -5,5 +5,6 @@
         <file>ColorPicker.qml</file>
         <file>PositionsControl.qml</file>
         <file>LayoutControl.qml</file>
+        <file>CppClass.qml</file>
     </qresource>
 </RCC>

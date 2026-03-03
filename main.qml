@@ -23,7 +23,12 @@ Window {
     // }
 
     //LayoutControl 测试
-    LayoutControl {
-        id: layoutControl
+    // LayoutControl {
+    //     id: layoutControl
+    // }
+
+    //C++class 测试
+    CppClass {
+        id: cppClass
     }
 }
