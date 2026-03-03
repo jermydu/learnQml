@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Base.qml</file>
+        <file>ColorPicker.qml</file>
+        <file>PositionsControl.qml</file>
+        <file>LayoutControl.qml</file>
+    </qresource>
+</RCC>
